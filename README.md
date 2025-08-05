@@ -129,7 +129,7 @@ CREATE TABLE buses (
 
 ## 📈 Results
 
-- ✅ Scraped data from **10+ Government Transport Systems** (e.g., KSRTC, APSRTC).
+- ✅ Scraped data from **10 Government Transport Systems** (e.g., KSRTC, APSRTC).
 - ✅ Included private bus details from selected routes.
 - ✅ Successfully stored data in structured SQL format.
 - ✅ Built an intuitive **Streamlit interface** for dynamic filtering.
