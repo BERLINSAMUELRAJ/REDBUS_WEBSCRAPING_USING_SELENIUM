@@ -174,10 +174,16 @@ CREATE TABLE buses (
 ![](https://github.com/BERLINSAMUELRAJ/REDBUS_WEBSCRAPING_USING_SELENIUM/blob/main/Screenshot%20(71).png)
 ---
 
-## 🗺️ States and Routes
+## 🗺️ States and Routes Tab of the Redbus Streamlit App UI
 
-![](https://github.com/BERLINSAMUELRAJ/REDBUS_WEBSCRAPING_USING_SELENIUM/blob/main/Screenshot%20(68).png)
+### Basic Layout of the States and Routes Tab
+![](https://github.com/BERLINSAMUELRAJ/REDBUS_WEBSCRAPING_USING_SELENIUM/blob/main/Screenshot%20(72).png)
 
+### Filter Section
+![](https://github.com/BERLINSAMUELRAJ/REDBUS_WEBSCRAPING_USING_SELENIUM/blob/main/Screenshot%20(73).png)
+
+### Real Time Filtering of Data Based on Selection
+![](https://github.com/BERLINSAMUELRAJ/REDBUS_WEBSCRAPING_USING_SELENIUM/blob/main/Screenshot%20(74).png)
 
 ## 📅 Project Guidelines
 
