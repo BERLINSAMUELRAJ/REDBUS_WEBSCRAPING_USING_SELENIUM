@@ -159,14 +159,19 @@ CREATE TABLE buses (
 - ✅ **SQL Scripts** for table creation
 - ✅ **README Documentation**
 - ✅ **Streamlit App UI** with filters
-- ✅ (Optional) Screenshots, videos, or GIFs of the app
+- ✅ Screenshots
 
 ---
 
-## 🧪 Sample Output Screenshot (Insert Here)
+## 🏠 Home Tab of the Redbus Streamlit App UI
 
-> *(Add your app screenshot showing filter functionality and data table)*
+![](https://github.com/BERLINSAMUELRAJ/REDBUS_WEBSCRAPING_USING_SELENIUM/blob/main/Screenshot%20(68).png)
 
+![](https://github.com/BERLINSAMUELRAJ/REDBUS_WEBSCRAPING_USING_SELENIUM/blob/main/Screenshot%20(69).png)
+
+![](https://github.com/BERLINSAMUELRAJ/REDBUS_WEBSCRAPING_USING_SELENIUM/blob/main/Screenshot%20(70).png)
+
+![](https://github.com/BERLINSAMUELRAJ/REDBUS_WEBSCRAPING_USING_SELENIUM/blob/main/Screenshot%20(71).png)
 ---
 
 ## 📅 Project Guidelines
