@@ -174,6 +174,11 @@ CREATE TABLE buses (
 ![](https://github.com/BERLINSAMUELRAJ/REDBUS_WEBSCRAPING_USING_SELENIUM/blob/main/Screenshot%20(71).png)
 ---
 
+## 🗺️ States and Routes
+
+![](https://github.com/BERLINSAMUELRAJ/REDBUS_WEBSCRAPING_USING_SELENIUM/blob/main/Screenshot%20(68).png)
+
+
 ## 📅 Project Guidelines
 
 - Follow **PEP8** coding conventions
