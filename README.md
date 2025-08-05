@@ -195,9 +195,9 @@ CREATE TABLE buses (
 
 ## 📧 Contact
 
-Created by **[Your Name]**  
-📫 Email: your.email@example.com  
-🔗 GitHub: [github.com/yourusername](https://github.com/yourusername)
+Created by **[R.BERLIN SAMUEL RAJ]**  
+📫 Email: berlinsamuelraj@gmail.com 
+🔗 GitHub: (https://github.com/BERLINSAMUELRAJ)
 
 ---
 
