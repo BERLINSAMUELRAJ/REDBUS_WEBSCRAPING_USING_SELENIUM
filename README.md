@@ -33,7 +33,7 @@ By streamlining these tasks, it significantly improves operational efficiency an
 | Component            | Technology           |
 |----------------------|----------------------|
 | Web Scraping         | Selenium (Python)    |
-| Backend Storage      | SQLite / MySQL       |
+| Backend Storage      | MySQL       |
 | Frontend Interface   | Streamlit            |
 | Language             | Python               |
 | Database Handling    | SQL (with schema)    |
